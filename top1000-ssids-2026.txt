@@ -1,0 +1,1000 @@
+xfinitywifi
+XFINITY
+Spectrum Mobile
+iPhone
+XFINITY mobile 
+eduroam
+BTWifi-X
+linksys
+BTWiFi-with-FON
+AndroidAP
+coxwifi
+<no ssid>
+Ziggo
+UPC Wi-Free
+Vodafone Hotspot
+BTWi-fi
+Telekom_FON
+Vodafone Homespot
+FreeWifi_secure
+EE Wifi
+NETGEAR
+MYChevrolet
+FRITZ!Box 7490
+optimumwifi
+FreeWifi
+Virgin media
+Guest
+cablewifi
+dlink
+Home
+TelenetWiFree
+asus
+KPN Fon
+hpsetup
+telecentro WIFI
+default
+" (Cloaked)
+setup
+MEO-WIFI
+SFR WiFi Mobile
+orange
+FRITZ!Box 6490 Cable
+Telstra AIR
+Fon WiFi
+SFR WiFi FON
+cox mobile 
+vodafone-WiFi
+walmartwifi
+TELENETHOMESPOT
+BTWIFI
+EE WiFi-X
+Unitymedia WifiSpot
+TWCWiFi
+#NET-CLARO-WIFI
+FRITZ!Box Gastzugang
+Hilton Honors
+RedMi
+WLAN
+ShawMobileHotspot
+Personal WiFi Zone
+myGMC
+Fritz!Box Fon WLAN 7390
+wireless
+EAGLE
+SpectrumWiFi
+belkin54g
+FRITZ!Box 7362 SL
+PYUR Community
+WOW FI - FASTWEB
+internet
+wifi
+Unifi
+portthru
+optimumwifi_Passpoint
+attwifi
+SpectrumWiFi PluS
+TWCWiFi-Passpoint
+HEATKTE
+SWS1day
+alticewifi
+OutOfService
+FRITZ!Box Fon WLAN 7360
+Proximus Public Wi-Fi
+skynet
+7483C2932C56
+Tp-link
+BTOpenzone
+PROXIMUS_FON
+0001softbank
+netgear-guest
+office
+FRITZ!Box 7412
+UPC WifiSpots
+iPhone (2)
+FRITZ!Box 7312
+iot
+BTFON
+TP-LINK_Extender
+Darmowe_Orange_WiFi
+MarriottBonvoy_Guest
+hhonors
+PROXIMUS_AUTO_FON
+starlink
+staff
+Gastzugang
+no_ssid
+demopool1
+NETGEAR_EXT
+FRITZ!Box Fon WLAN 7270
+ASUS_5G
+ShawOpen
+FRITZ!Box 6360 Cable
+test
+Concrete
+FRITZ!Box Fon WLAN 7170
+byfly WIFI
+Subaru Wi-Fi
+pretty fly for a wifi
+bandsaw
+demopool2
+KD WLAN Hotspot+
+SwimUpstream
+ZyXEL
+SFR WiFi Public
+FON_ZON_FREE_INTERNET
+Club_Totalplay_WiFi
+Familiestue
+Lowes-Guest-WiFi
+TSD_Mobile
+NOS_WIFI_Fon
+_AUTO_ONOWiFi
+0000docomo
+VOIP
+orange12
+HEATKTE-NG
+FRITZ!Box Fon WLAN 7112
+steel
+Target Guest Wi-Fi
+optimum
+Wi2premium
+MarriottBonvoy
+DIRECT-
+Bouygues Telecom Wi-Fi
+Telekom
+Redmi 9A
+Horizon Wi-Free
+ShawPasspoint
+0002softbank
+guest-wifi
+D-LINK
+Casa
+Spectrum Free Trial
+govroam
+Wi-Fi Auto Connect
+LjLr511
+dge
+au_Wi-Fi
+Wi2premium_club
+mybuick
+admin
+FON_BELGACOM
+Telekom-HotSpot
+mobile
+FBI Surveillance Van
+Spectrum
+homewifi
+DECO
+Home WiFi
+eBOS
+WiFi-Repeater
+mycadillac
+mywifi
+BTOpenzone-H
+0001docomo
+M4m786iA
+Voice
+COSMOTE WiFi Fon
+Wi-Free #InternetUPCNajszybszy
+guestnet
+iptime
+Jt9x11w3
+NETGEAR96
+Free Public WiFi
+PrettyFlyForAWiFi
+.FREE_Wi-Fi_PASSPORT
+LiveBetter
+virus
+Gast
+FON_FREE_INTERNET
+O2 WIFI
+Walmartwifi_2.4
+Redmi 13C
+@Hyatt_WiFi
+IPAD
+HomeNet
+Redmi Note 11
+eero
+au_Wi-Fi2
+Redmi Note 9
+savemoney
+Private
+Redmi Note 10 Pro
+xerox
+McDonalds Free WiFi
+WiFi_OBDii
+optimumwifi-Emergency
+BTOpenzone-B
+WirelessLocal_IO
+Redmi Note 9 Pro
+FON_NETIA_FREE_INTERNET
+WhiteSky-PublicWiFi
+dd-wrt
+ACTIONTEC
+KR-Universal
+iPhone (3)
+ATT-WiFi
+IHG ONE REWARDS Free Wi-Fi
+Redmi 9
+public
+SMC
+Proximus Smart Wi-Fi
+HUAWEI P30 Pro
+[hidden]
+Marriott_Guest
+CORP
+Nachowifi
+101
+WirelessICC
+_The Cloud
+DIR-615
+FRITZ!Box 7330 SL
+Hotspot
+airportthru
+UPC Wi-Free #SprawdzUPCMobile!
+U+zone
+KPN
+#CLARO-WIFI
+Dom
+nacho wifi
+NETGEAR93
+WirelessNet
+_ONOWiFi
+FRITZ!Box Fon WLAN 7113
+5ECUR3w3p5TOR3
+Redmi 12
+Alex
+0000softbank
+Motorola
+(null)
+Redmi Note 12
+freephonie
+BELTELECOM WIFI
+Allo SmartTown Wi-Fi
+LWL-M
+WirelessSGF
+netgear69
+netgear11
+NETGEAR22
+NETGEAR24
+vehicle hotspot
+Netgear88
+NETGEAR23
+NETGEAR77
+netgear12
+NETGEAR99
+NETGEAR13
+netgear44
+NETGEAR50
+NETGEAR33
+NETGEAR10
+MyPlace
+NETGEAR70
+NETGEAR75
+NETGEAR47
+NETGEAR55
+Vodafone-Guest
+NETGEAR45
+NETGEAR28
+NETGEAR25
+NETGEAR80
+ask4 Wireless
+NETGEAR20
+Netgear57
+NETGEAR17
+NETGEAR43
+NETGEAR95
+NETGEAR49
+NETGEAR41
+NETGEAR21
+NETGEAR85
+NETGEAR89
+NETGEAR73
+NETGEAR72
+NETGEAR51
+NETGEAR53
+Netgear30
+NETGEAR94
+NETGEAR42
+NETGEAR97
+House
+NETGEAR19
+Netgear18
+NETGEAR71
+NETGEAR32
+netgear83
+NETGEAR74
+NETGEAR05
+NETGEAR48
+NETGEAR78
+NETGEAR58
+NETGEAR60
+NETGEAR40
+NETGEAR87
+NETGEAR38
+netgear27
+Netgear91
+NETGEAR63
+NETGEAR37
+netgear76
+NETGEAR81
+NETGEAR35
+NETGEAR15
+tKeRl
+NETGEAR90
+NETGEAR66
+NETGEAR14
+NETGEAR82
+NETGEAR16
+NETGEAR65
+ASK4 Wireless (802.1x)
+netgear31
+NETGEAR84
+NETGEAR46
+Netgear09
+NETGEAR56
+BYD
+NETGEAR07
+NETGEAR79
+wirelessmobile
+NETGEAR68
+NETGEAR67
+SpectrumSetup-80
+NETGEAR34
+netgear54
+NETGEAR36
+NETGEAR52
+NETGEAR86
+netgear29
+NETGEAR62
+NETGEAR64
+SpectrumSetup-88
+SpectrumSetup-90
+NETGEAR39
+NETGEAR06
+NETGEAR92
+Netgear61
+NETGEAR08
+SpectrumSetup-E8
+NETGEAR01
+NETGEAR98
+NETGEAR59
+NETGEAR26
+SpectrumSetup-40
+SpectrumSetup-98
+SpectrumSetup-48
+Ikea WiFi
+SpectrumSetup-78
+SpectrumSetup-70
+SpectrumSetup-58
+NETGEAR04
+SpectrumSetup-28
+SpectrumSetup-50
+SpectrumSetup-60
+SpectrumSetup-18
+SpectrumSetup-68
+SpectrumSetup-30
+SpectrumSetup-38
+SpectrumSetup-B8
+SpectrumSetup-10
+SpectrumSetup-08
+SpectrumSetup-C8
+NETGEAR03
+SpectrumSetup-20
+GABLE
+SpectrumSetup-A8
+SpectrumSetup-F8
+TCWireless
+SpectrumSetup-D8
+netgear02
+swsecure
+NETGEAR00
+SpectrumSetup-B0
+#o4D@n!3LS3b@$+1@N<B
+TMobileWingman
+SpectrumSetup-F0
+SpectrumSetup-E0
+SpectrumSetup-A0
+Wi2
+SpectrumSetup-D0
+ClubTotalplay_WiFi_2.4G
+PYUR 28B17
+My ASUS
+SpectrumSetup-C0
+SpectrumSetup-00
+WirelessNet2
+Visitor
+SKODA_WLAN
+Maria
+Swisscom_Auto_Login
+Iteris_vectorR000172562374
+Sprint Drive
+Redmi Note 13
+GuestWiFi
+Wi-Fi
+Student
+L4m82az
+CFA Private Wi-Fi
+leasing office
+9qZNkCYGzf
+wlan-ap
+Sitecom
+OTE WiFi Fon
+yrneh09
+\\360\\237\\207\\267\\360\\237\\207\\272\\360\\237\\222\\251\\3
+Berlin autofrei
+rebar
+ollehWiFi
+Netcomm Wireless
+VW_WLAN
+InS+0cK
+Toyota Smart Connect
+Iteris_vectorR000172511608
+nomad5
+HUAWEI P30 lite
+0
+BYOD
+Wi2_club
+corporate
+GovWiFi
+WLAN-TWDC
+Redmi Note 10S
+MySpectrumWiFi88-2G
+MySpectrumWiFi48-2G
+Bright House Networks
+MySpectrumWiFi78-2G
+mint
+MySpectrumWiFi40-2G
+MySpectrumWiFi58-2G
+MySpectrumWiFi80-2G
+MySpectrumWiFi68-2G
+@wifi.id
+MySpectrumWiFi30-2G
+MySpectrumWiFi98-2G
+MySpectrumWiFi28-2G
+MySpectrumWiFi38-2G
+MySpectrumWiFi20-2G
+DIR-300NRU
+MySpectrumWiFi60-2G
+MySpectrumWiFi70-2G
+MySpectrumWiFi18-2G
+MySpectrumWiFi10-2G
+MySpectrumWiFi50-2G
+HomeSweetHome
+MySpectrumWiFi90-2G
+MySpectrumWiFic0-2G
+MySpectrumWiFi00-2G
+MySpectrumWiFia8-2G
+MySpectrumWiFic8-2G
+MySpectrumWiFi08-2G
+Iteris_vectorR000172562373
+MySpectrumWiFie8-2G
+family
+MySpectrumWiFid0-2G
+MySpectrumWiFia0-2G
+MySpectrumWiFib8-2G
+MySpectrumWiFid8-2G
+MySpectrumWiFif8-2G
+MySpectrumWiFie0-2G
+HHT-WM2
+MySpectrumWiFif0-2G
+MySpectrumWiFib0-2G
+MAN Media System
+FRITZ!Box 7272
+airport
+Guest Wifi
+HHT-WM1
+tmobile
+store-prod
+RogersOpen
+TCWIFI
+cWiFi
+mesh
+Orange_FunSpot
+FRITZ!Box WLAN 3170
+Flow Wi-Fi
+FRITZ!Box Fon WLAN 7320
+tcguest
+FBI
+Courtyard_Guest
+<hidden ssid>
+Telekom_SIM
+Bill Wi the Science Fi
+sdp5g
+VOO_HOMESPOT
+POS
+LjLr11
+Shawgo
+TENDA
+03 Never gonna run around
+Living Room TV
+netis
+Redmi 10C
+david
+02 never gonna let you down
+Home Network
+redvest
+Redmi 9C NFC
+<hidden>
+absauthz
+MarriottBonvoy_Conference
+alpha
+HOGWARTS
+CHT Wi-Fi(HiNet)
+Draytek
+attwifi - Passpoint
+TP-LINK_Extender_5GHz
+logitecuser
+Telekom Fon
+Iteris_vectorR000172410723
+NetWork
+swisscom
+07 Never gonna tell a lie
+Home1
+06 never gonna say goodbye
+TP-LINK_Extender_2.4GHz
+Guest_Access
+Vendor
+Hilton Honors Meeting
+DigSig
+Apple
+Iteris_vectorR000172542049
+techwrench
+FRITZ!Box 7330
+mycloud
+logitecgameuser
+BATCAVE
+UqtbBHX4Tt
+Eximius_2G
+Redmi Note 11 Pro 5G
+UBNT
+ncpsp
+HTC Portable Hotspot
+Martin Router King
+FRITZ!Box Fon WLAN 7240
+DIR-300
+iPhone (4)
+Redmi 14C
+BHN Secure
+Wi2eap
+.
+notyourwifi
+mobile1md
+Rkiosk
+scandic_easy
+martin
+HUAWEI P20 Pro
+ZMD_SAP
+Pretty Fly for a Wi-Fi
+Redmi Note 13 Pro
+CVWifi
+Guests
+_BTWi-fi
+ncpsh
+Redmi Note 8 Pro
+FRITZ!Box WLAN 3270
+samsara
+????iPhone
+Mi Phone
+04 and desert you
+DANIEL
+Telematics Wi-Fi
+Guest Network
+Redmi 12C
+Johnson
+freifunk
+[Washer] Samsung
+Living Room
+myhome
+TkLrCp7
+NON-RIS-PWL
+POCO X3 Pro
+Ambassador_iPad
+Oi WiFi Fon
+BRCD25329
+NHS Wi-Fi
+SMITH
+Redmi Note 10 5G
+FBI Surveillance
+MSHOME
+CHT Wi-Fi Auto
+Guest-Passpoint
+Linbury
+Wireless-N
+HEB Customer WiFi
+A9F1BDF1DAB1NVT4F4F59
+Sunshine
+Starbucks WiFi
+Homenetwork
+it hurts when IP
+FBI Van
+CMCC
+MySpectrumWiFi88-5G
+MySpectrumWiFi58-5G
+MySpectrumWiFi68-5G
+MySpectrumWiFi30-5G
+MySpectrumWiFi78-5G
+MySpectrumWiFi40-5G
+MySpectrumWiFi70-5G
+MySpectrumWiFi90-5G
+MySpectrumWiFi38-5G
+MySpectrumWiFi48-5G
+MySpectrumWiFi08-5G
+MySpectrumWiFi80-5G
+MySpectrumWiFi98-5G
+MySpectrumWiFi60-5G
+MySpectrumWiFi28-5G
+FRITZ!Box Fon WLAN 7141
+DOEguest
+MySpectrumWiFi50-5G
+MySpectrumWiFi10-5G
+MySpectrumWiFi18-5G
+MySpectrumWiFic8-5G
+MySpectrumWiFie8-5G
+MySpectrumWiFia8-5G
+MySpectrumWiFi20-5G
+MySpectrumWiFi00-5G
+MySpectrumWiFic0-5G
+MySpectrumWiFia0-5G
+MySpectrumWiFid0-5G
+MySpectrumWiFid8-5G
+MySpectrumWiFib8-5G
+huawei
+MySpectrumWiFie0-5G
+MySpectrumWiFif8-5G
+MySpectrumWiFib0-5G
+MySpectrumWiFif0-5G
+SpectrumSetup-77
+My WiFi
+BLUE
+SpectrumSetup-9B
+SpectrumSetup-47
+SpectrumSetup-93
+SpectrumSetup-8F
+o2DSL
+eir_WiFi
+SpectrumSetup-17
+SpectrumSetup-97
+SpectrumSetup-B3
+SpectrumSetup-83
+SpectrumSetup-5B
+SpectrumSetup-73
+SpectrumSetup-87
+SpectrumSetup-D7
+SpectrumSetup-67
+SpectrumSetup-3B
+Max
+SpectrumSetup-53
+SpectrumSetup-03
+SpectrumSetup-9F
+JioPrivateNet
+SpectrumSetup-63
+SpectrumSetup-43
+SpectrumSetup-7B
+SpectrumSetup-BB
+SpectrumSetup-33
+SpectrumSetup-A7
+ZTE
+SpectrumSetup-F7
+SpectrumSetup-27
+Redmi Note 11S
+SpectrumSetup-8B
+SpectrumSetup-37
+SpectrumSetup-B7
+SpectrumSetup-E7
+SpectrumSetup-57
+SpectrumSetup-7F
+SpectrumSetup-07
+SpectrumSetup-3F
+SpectrumSetup-AB
+3Com
+SpectrumSetup-6B
+tsunami
+SpectrumSetup-4B
+SpectrumSetup-C7
+SpectrumSetup-C3
+SpectrumSetup-23
+SpectrumSetup-2F
+SpectrumSetup-5F
+X03B-89m6274IR
+SpectrumSetup-1B
+SpectrumSetup-A3
+SpectrumSetup-BF
+SpectrumSetup-13
+SpectrumSetup-D3
+SpectrumSetup-2B
+Redmi 9C
+SpectrumSetup-CB
+mprotek
+SpectrumSetup-F3
+SpectrumSetup-1F
+SpectrumSetup-CF
+WirelessLocal
+SpectrumSetup-E3
+SpectrumSetup-DB
+SpectrumSetup-EF
+SpectrumSetup-EB
+SpectrumSetup-0B
+SpectrumSetup-4F
+SpectrumSetup-FB
+SpectrumSetup-AF
+SpectrumSetup-FF
+VerizonWiFiAccess
+SpectrumSetup-6F
+SpectrumSetup-DF
+Notes
+nycdoeMobile
+ATTyNcmW4t
+ATTZzgtmlk
+Red5
+ATTwqKR75S
+SpectrumSetup-0F
+Redmi A3
+Iteris_vectorR000172542050
+thomas
+HUAWEI P20 lite
+cisco
+Private WiFi Default
+ATTR3kC3d2
+Tele Columbus
+BROADCOM_GUEST_0_6
+Family Room TV
+Your New Wi-Fi
+Mywlan
+Service
+oneteam
+FRITZ!Box 6340 Cable
+Employee
+Passpoint Secure
+Williams
+IHG Connect
+DIRECT-AD-HP PageWide Pro PWA
+lattice
+MelitaWiFi
+Public WiFi Default
+Free WiFi
+wmdemo
+Google WiFi
+detnsw
+Matrix
+tv
+samsung
+Silverado
+TPLINK
+ResidenceInn_GUEST
+Nunez Extended 
+COLLEAGUE
+Charlie
+Chromecast
+Redmi Note 11 Pro
+Green
+meijer-vendor
+Wireless@SGx
+#TELUS
+ATTyNcmW4s
+  AIS SMART Login
+SpectrumSetup-69
+SpectrumSetup-75
+01 Never gonna give you up
+ATTZzgtmlj
+SIP
+luna
+HUAWEI P30
+BROADCOM_GUEST_0_3
+SpectrumSetup-89
+Dalkleven_2
+SpectrumSetup-55
+ATTwqKR75V
+SpectrumSetup-59
+SpectrumSetup-E5
+SpectrumSetup-85
+SpectrumSetup-65
+mike
+zb0104p1
+BROADCOM_GUEST_1_6
+SpectrumSetup-19
+SpectrumSetup-D5
+SpectrumSetup-79
+H&M Free WiFi
+SpectrumSetup-51
+Michael
+SpectrumSetup-35
+SpectrumSetup-91
+SpectrumSetup-6D
+SpectrumSetup-29
+SpectrumSetup-45
+SpectrumSetup-8D
+sweethome
+SpectrumSetup-9D
+SpectrumSetup-81
+SpectrumSetup-95
+SpectrumSetup-F9
+Bella
+Wavlink-N
+VW WLAN
+SpectrumSetup-21
+FRITZ!Box Fon WLAN 7360 SL
+SpectrumSetup-7D
+SpectrumSetup-5D
+SpectrumSetup-A5
+SpectrumSetup-09
+SpectrumSetup-49
+SpectrumSetup-25
+SpectrumSetup-39
+SpectrumSetup-71
+SpectrumSetup-15
+SpectrumSetup-4D
+SpectrumSetup-C9
+FRITZ!Box 3272
+SpectrumSetup-D9
+SpectrumSetup-A9
+SpectrumSetup-41
+SpectrumSetup-C5
+SpectrumSetup-31
+102
+SpectrumSetup-99
+SpectrumSetup-3D
+T wifi zone
+SpectrumSetup-05
+SpectrumSetup-F5
+anna
+SpectrumSetup-2D
+SpectrumSetup-B5
+Invitados
+SpectrumSetup-B9
+CHASE_GUEST
+.@ AIS SUPER WiFi
+maison
+SpectrumSetup-11
+SpectrumSetup-E9
+SpectrumSetup-61
+MINE
+SpectrumSetup-DD
+serviceswifi
+SpectrumSetup-B1
+FRITZ!Powerline 540E
+SpectrumSetup-FD
+SpectrumSetup-AD
+SpectrumSetup-D1
+SpectrumSetup-1D
+SpectrumSetup-A1
+Public Wifi secure
+SpectrumSetup-C1
+455hs74WcD
+SpectrumSetup-BD
+google
+WIFI-Guest
+SpectrumSetup-01
+Apple Store
+ctab
+rfcl13ntA
+SpectrumSetup-E1
+george
+PGAC00313
+TrendNET
+SpectrumSetup-0D
+Wu-Tang LAN
+SpectrumSetup-CD
+RED
+SpectrumSetup-F1
+SpectrumSetup-ED
+Neuf WiFi
+brown
+FRITZ!Powerline 1260E
+Nunez Extended 2
+net
+Angel
+YOTA
+Sonos
+@BayernWLAN 
+It burns when IP
+FON_FREE_EAP
+POCO X3 NFC
+Verkstedveien
+Redmi 10
+Telenor7210sel
+PRINTER
+omega
+   .@ TrueMove H
+0A344ABB
+john
+Toyota Multimedia
+Macysfreewifi
+T wifi zone_secure
+Carbon
+study
+CVSConnect
+BROADCOM_GUEST_1_3
+galaxy
+dell_device
+delta
+vodafone
+wilson
+IHGConnect
+getyourownwifi
+DELTA WifiSpots
+SYNC_00000000
+Loading...
+WiFi4EU
+homebase
+Redmi Note 7
+IBIS
+VIVACOM_Fibernet
+router
+iPhone (5)
+KaiserGuest
+Speedport W 501V
+SMLL
+Sam
+DG-Customer
+zg0104p1
+.1.Free Wi-Fi
+MT_free
+anderson
+IWIFI
+home2
+james
+devices
+Robert
+CtLsIiClK
+THOMSON
+Redmi Note 12S
+HUAWEI Mate 20 Pro
+INTERSVYAZ_OPEN
+chris
+King
+jones
+ATTtl7cc3c
+Carlos
+ATTyNamW8t
+Miller
+Welcome@LiDL
+NETGEAR-5G-GUEST
+ATTL3kC9d2
+ATTqzix349
+<Hidden Network>
+martinez
+internal
+ATTktwAfgj
+secure
+[Range] Samsung
+Weefee
+Public WiFi Free
+sage
+1
+MGMResorts-WiFi
+Redmi 9T
+mobile5sd
+DIR-620
+VIP
+ssid2
+PUBLIX-CUSTOMER
+ABC
+orion
+EdiMAX
+Boingo_Wireless
+?MUSIC?                  
+Redmi Note 13 Pro 5G
+MobilePrint
+SSID2-2.4
+uconnectadpt
+Radisson_Guest
+DG-Employee
+Kohls Guest WiFi
+CDWiFi
+Home Sweet Home
+FRITZ!Box 3490
+08 and hurt you
+ATTR9gCt6
+M2M_IoT
+MikroTik
+intern
+TellMyWifiLoveHer
+thuis
+HUAWEI p8 lite
+BATMAN
+GUEST_VENDEG
+Zoom
+ClubTotalplay_WiFi_5G
+conference
+DM-Corp
